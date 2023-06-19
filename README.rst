@@ -9,10 +9,10 @@ Help to get familar with package 'hvsrpy'
 
 2. Second step, we should prepare with the raw data. 
 
-  According to your needs, cut the raw data into different files, you may cut data files in 24hours length unit or 1hour length.
+ According to your needs, cut the raw data into different files, you may cut data files in 24hours length unit or 1hour length.
   
-  For example, if you prefer 24hours length, you could refer scripts written by Dr.Wang(Wang Xinyang):
-  You should preparec these files:
+ For example, if you prefer 24hours length, you could refer scripts written by Dr.Wang(Wang Xinyang):
+ You should preparec these files:
   (a)cut_EPS_day.sh(main script), 
   (b)nzjday.f(needed when you run the script 'cut_EPS_day.sh', you don't need to change it),
   (c)find_EPS_day(needed when you run the script 'cut_EPS_day.sh', you don't need to change it), 
