@@ -1,4 +1,4 @@
-This repository is for better-using of hvsrpy, especially when new student want to get fast familar with hvsrpy and their own dataset.
+Help to get familar with package 'hvsrpy'
 =======================================
 
 1. First thing, we should install 'hvsrpy', which you could figure out in the link (https://github.com/jpvantassel/hvsrpy). You could follow this link and install 'hvsrpy' and I will not cover more details here.
