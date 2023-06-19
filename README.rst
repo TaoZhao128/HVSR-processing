@@ -19,7 +19,7 @@ Help to get familar with package 'hvsrpy'
   (d)RD(a txt file including your date range. If your date range of raw data is from 20210418 to 20210420, you should write "20210418 20210419 20210420" in this file. Each date must write on different lines), 
   (e)st(a txt file, include all station's data filename, like P001_sac. When you get your own data, you could run "ls * > st" in the terminal, then you get your own st).
 
-When we prepare all these files and put them in same directory, you could run 'bash cut_EPS_day.sh' in your terminal and just wait! And we should run this code for three times, one time for one component. For example, when we are processing component N, we should check the script(cut_EPS_day.sh), and search all words including "BHZ" or "BHE" and change them into "BHN". 
+  When we prepare all these files and put them in same directory, you could run 'bash cut_EPS_day.sh' in your terminal and just wait! And we should run this code for three times, one time for one component. For example, when we are processing component N, we should check the script(cut_EPS_day.sh), and search all words including "BHZ" or "BHE" and change them into "BHN". 
 
  !!Pay Attention：No matter how long your data-length is, we must keep three-components-files of one station with the same npts(Number of sampling points).
 
