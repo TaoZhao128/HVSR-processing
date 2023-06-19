@@ -33,3 +33,4 @@ Help to get familar with package 'hvsrpy'
   !And also, we need to change the file path, make sure the path is correct path whcih link to your own data. You could refer the example path in those two notebooks.
   When fully-prepared, you could run "jupyter notebook" in your terminal and run those two notebook.
   
+When you get familar with hvsrpy and want to do batch calculation. You could refer 'batch'. And run those two scripts after doing a little change according to your file path.
